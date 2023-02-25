@@ -1,2 +1,2 @@
 # CodeClause_Python_Development
- Music Player in Python
+ Music Player and ext editor in Python
